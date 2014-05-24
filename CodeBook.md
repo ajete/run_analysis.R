@@ -48,6 +48,6 @@ Info from the source data book,
 
 
 ===============================
-##The Transformations:
+##Description:
 
 First, training and testing data sets are merged to create a single `combined` data set. After, this data set is further culled to only include data pertaining to mean or standard deviation values (denoted by the presence of `mean` or `std` in the feature names) and the average of each variable for each activity and each subject.
